@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#
+#       Sabir Süleymanlı <suleymanlisabir3@gmail.com>
+#       
+#       task.py            22.02.2022           
+#       
+
 from dronekit import Command, connect, VehicleMode, LocationGlobalRelative
 import time
 from pymavlink import mavutil
