@@ -6,7 +6,7 @@
 Bu repository döner kanat iha kategorisine ait bir aracın temel hareket (iniş-kalkış, sağ-sol, yukarı-aşağı) kodalarını, birkaç görev uygulama algoritmalarını içermektedir. 
 
 # Simulasyon ortamı kurulumu
-Aşağıda Ardupilot yazılımının ve Gazebo simulasyon ortamının Linux OS'a (Ubuntu 18.04 ve üzeri versiyonlarına) kurulumu adım adım belirtilmiştir:
+Aşağıda **Ardupilot** yazılımının ve **Gazebo** simulasyon ortamının Linux OS'a (Ubuntu 18.04 ve üzeri versiyonlarına) kurulumu adım adım belirtilmiştir:
 
 1. İlk önce Terminali açıyoruz (Ctrl+Alt+T) ve şu komutları sırasıyla girerek **Ardupilot** için gerekli olan dosyaları indiriyoruz:
  ```
