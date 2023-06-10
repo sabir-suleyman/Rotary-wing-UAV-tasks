@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#
+#       Sabir Süleymanlı <suleymanlisabir3@gmail.com>
+#       
+#       servo1.py            17.07.2022           
+# 
+
 from Tkinter import *
 import RPi.GPIO
 import time
