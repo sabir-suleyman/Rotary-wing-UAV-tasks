@@ -6,7 +6,7 @@
 This repository contains the basic motion (landing-takeoff, right-left, up-down) codes of a vehicle belonging to the rotary wing UAV category, as well as several mission execution algorithms. 
 
 # Simulation environment setup
-Below is the step-by-step installation of Ardupilot software and Gazebo simulation environment on Linux OS (Ubuntu 18.04 and above):
+Below is the step-by-step installation of **Ardupilot** software and **Gazebo** simulation environment on Linux OS (Ubuntu 18.04 and above):
 
 1. First, open the Terminal (Ctrl+Alt+T) and download the necessary files for **Ardupilot** by entering the following commands in order:
  ```
@@ -69,7 +69,7 @@ command.
 
 Now we can close the terminal. After closing, we log out and log in again (you can also Restart)
 
-After logging in again, we open the Terminal and start the **Ardupilot STYLE** application:
+After logging in again, we open the Terminal and start the **Ardupilot STIL** application:
 
 ```
 cd ardupilot/ArduCopter
@@ -81,7 +81,7 @@ Afterwards
 sim_vehicle.py -w
 ```
 
-command. After the process is finished, end the command by Ctrl+C and then
+command. After the process is finished, kill the command by Ctrl+C and then
 
 ```
 sim_vehicle.py --console --map
@@ -163,7 +163,7 @@ echo 'export GAZEBO_MODEL_PATH=~/ardupilot_gazebo/models' >> ~/.bashrc
 . ~/.bashrc
 ```
 
-If these commands were executed successfully, then Gazebo is installed. **Warning: If you are using a virtual machine (*not recommended, you can choose to dual boot instead*) you will need to enter these two commands:
+If these commands were executed successfully, then Gazebo is installed. **Warning**: If you are using a virtual machine (*not recommended, you can choose to dual boot instead*) you will need to enter these two commands:
 
 ```
 export SVGA_VGPU10=0
