@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+#
+#       Sabir Süleymanlı <suleymanlisabir3@gmail.com>
+#       
+#       basit_gorev.py            05.07.2022           
+#       
+
+
 #en son bunu yaptim
 
 from dronekit import Command ,connect , VehicleMode, LocationGlobalRelative
