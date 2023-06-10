@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#
+#       Sabir Süleymanlı <suleymanlisabir3@gmail.com>
+#       
+#       temel_komutlar.py            22.02.2022           
+# 
+
 from dronekit import connect , VehicleMode, LocationGlobalRelative
 import time
 
