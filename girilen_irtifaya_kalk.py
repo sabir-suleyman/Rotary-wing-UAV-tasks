@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#
+#       Sabir Süleymanlı <suleymanlisabir3@gmail.com>
+#       
+#       girilen_irtifaya_kalk.py            22.02.2022           
+#       
+
 from dronekit import connect , VehicleMode
 import time
 
