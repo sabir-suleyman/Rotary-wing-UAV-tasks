@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#
+#       Sabir Süleymanlı <suleymanlisabir3@gmail.com>
+#       
+#       gorev_olustur_1.py            05.07.2022           
+#       
+
 from tokenize import Double
 from dronekit import Command ,connect , VehicleMode, LocationGlobalRelative
 import time
