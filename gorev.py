@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#
+#       Sabir Süleymanlı <suleymanlisabir3@gmail.com>
+#       
+#       gorev.py            02.07.2022           
+#       
+
 from dronekit import Command ,connect , VehicleMode, LocationGlobalRelative
 import time
 from pymavlink import mavutil
