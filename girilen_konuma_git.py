@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#
+#       Sabir Süleymanlı <suleymanlisabir3@gmail.com>
+#       
+#       girilen_konuma_git.py            22.02.2022           
+#       
+
 from pickletools import float8
 from dronekit import connect , VehicleMode , LocationGlobalRelative
 
