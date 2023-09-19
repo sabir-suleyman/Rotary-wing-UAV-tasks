@@ -29,7 +29,7 @@ def takeoff(irtifa1):
             
     print("Iha Guided moduna alindi.")
 
-    iha.armed = True
+    iha.armed = False
 
     print("Iha basariyla arm edildi!")
 
